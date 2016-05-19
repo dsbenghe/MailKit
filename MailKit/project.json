@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.2.22",
+  "version": "1.2.22-NetStandard",
   "title": "MailKit",
   "description": "An Open Source cross-platform .NET mail-client library that is based on MimeKit and optimized for mobile devices.",
   "authors": [ "Jeffrey Stedfast" ],
@@ -54,7 +54,7 @@
     }
   },
   "dependencies": {
-    "MimeKit": "1.2.23",
+    "MimeKit": "1.2.23-NetStandard",
     "Portable.BouncyCastle": "1.8.1"
   }
 }
